@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/atulranjan9026",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://docs.google.com/document/d/1yB5iKBkvoWRgV38u6CCni0QCMGdZDPwO/edit?usp=sharing&ouid=107549257421333116579&rtpof=true&sd=true",
   linkedin: "https://www.linkedin.com/in/atul-ranjan-50489921a/",
   twitter: "https://twitter.com/atulst825",
   insta: "https://www.instagram.com/atulranjan3625/?hl=en",
@@ -331,6 +331,19 @@ export const projects = [
     category: "android app",
     github: "https://github.com/atulranjan9026/Todo-Web-App",
     webapp: "https://65a6d6d1df78f3115f8267c5--nimble-marshmallow-fb7137.netlify.app/",
+  },
+  {
+    id: 10,
+    title: "My Resume",
+    date: "Jun 2021 - Jul 2021",
+    description:
+      "  My Resume Page. more detail about me.And using JavaScript for smoothness.",
+    image:
+      "https://user-images.githubusercontent.com/76626529/183624735-e2af1e6e-0116-46e7-85b9-a4f79cd627eb.png",
+    tags: ["HTML", "CSS", "JavaScript"],
+    category: "android app",
+    github: "https://github.com/atulranjan9026/Resume-Project",
+    webapp: "https://7e520bc8-1f08-455d-a66e-674190f8cd9f-00-psx1ai64s0x2.asia-a.replit.dev/",
   },
   {
     id: 4,

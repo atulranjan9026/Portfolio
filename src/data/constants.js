@@ -307,7 +307,7 @@ export const projects = [
     description:
       "  My Resume Page. more detail about me.And using JavaScript for smoothness.",
     image:
-      "https://user-images.githubusercontent.com/76626529/183624735-e2af1e6e-0116-46e7-85b9-a4f79cd627eb.png",
+      "https://github.com/atulranjan9026/Portfolio/assets/99653239/8544d20c-3e5c-4c4d-b7b3-6ce4e506ce88",
     tags: ["HTML", "CSS", "JavaScript"],
     category: "android app",
     github: "https://github.com/atulranjan9026/Resume-Project",

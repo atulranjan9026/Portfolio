@@ -311,7 +311,7 @@ export const projects = [
     tags: ["HTML", "CSS", "JavaScript"],
     category: "android app",
     github: "https://github.com/atulranjan9026/Resume-Project",
-    webapp: "https://7e520bc8-1f08-455d-a66e-674190f8cd9f-00-psx1ai64s0x2.asia-a.replit.dev/",
+    webapp: "https://65ad3d937f62d873a0ed7b09--melodious-brigadeiros-76a6d2.netlify.app/",
   },
   // {
   //   id: 4,

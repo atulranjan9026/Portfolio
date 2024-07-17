@@ -320,7 +320,7 @@ export const projects = [
     description:
       "WAGER is an innovative platform designed to revolutionize the traditional process of connecting skilled tradespersons, such as electricians and painters, with clients seeking their services. The project addresses the challenges associated with the manual and often time-consuming task of efficiently matching skilled workers to clients.",
     image:
-      "",
+      "https://github.com/user-attachments/assets/460d570a-c4cd-4372-ad9b-264db5e0d06c",
     tags: ["React Js", "Node.js"],
     category: "web app",
     github: "https://github.com/atulranjan9026/Job-searching-Website",

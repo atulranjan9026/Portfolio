@@ -313,19 +313,19 @@ export const projects = [
     github: "https://github.com/atulranjan9026/Resume-Project",
     webapp: "https://65ad3d937f62d873a0ed7b09--melodious-brigadeiros-76a6d2.netlify.app/",
   },
-  // {
-  //   id: 4,
-  //   title: "",
-  //   date: "Jul 2021",
-  //   description:
-  //     "",
-  //   image:
-  //     "",
-  //   tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-  //   category: "web app",
-  //   github: "",
-  //   webapp: "",
-  // },
+  {
+    id: 4,
+    title: "WAGER: A Job Searching Platform",
+    date: "Aug 2023- Apr 2024",
+    description:
+      "WAGER is an innovative platform designed to revolutionize the traditional process of connecting skilled tradespersons, such as electricians and painters, with clients seeking their services. The project addresses the challenges associated with the manual and often time-consuming task of efficiently matching skilled workers to clients.",
+    image:
+      "",
+    tags: ["React Js", "Node.js"],
+    category: "web app",
+    github: "https://github.com/atulranjan9026/Job-searching-Website",
+    webapp: "https://job-f.onrender.com/",
+  },
   // {
   
   // {

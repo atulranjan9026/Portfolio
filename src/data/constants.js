@@ -328,19 +328,19 @@ export const projects = [
   },
   // {
   
-  // {
-  //   id: 6,
-  //   title: "...",
-  //   date: "Jun 2021",
-  //   description:
-  //     "..",
-  //   image:
-  //     "..",
-  //   tags: ["NodeJs", "Express", "MongoDB", ""],
-  //   category: "web app",
-  //   github: "",
-  //   webapp: "",
-  // },
+  {
+    id: 6,
+    title: "ShopEase:",
+    date: "Apr 2024 - Jun 2024",
+    description:
+      "Constructed a scalable e-commerce platform using the MERN (MongoDB, Express.js, React, Node.js) stack",
+    image:
+      "..",
+    tags: ["React.js","NodeJs", "Express", "MongoDB"],
+    category: "web app",
+    github: "https://github.com/atulranjan9026/E-commerce",
+    webapp: "https://voluble-tanuki-fe7ea9.netlify.app",
+  },
   // {
   //   id: 7,
   //   title: "",

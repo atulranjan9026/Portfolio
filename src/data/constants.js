@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/atulranjan9026",
   resume:
-    "https://drive.google.com/file/d/1Vs3FqLvo7k6aOhH4ekL8fMDBJHWS1uW8/view?usp=sharing",
+    "https://drive.google.com/file/d/1niz3DO75kNwIeLo5IIOpo3HLAQP1ckAG/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/atul-ranjan-50489921a/",
   twitter: "https://twitter.com/atulst825",
   insta: "https://www.instagram.com/atulranjan3625/?hl=en",

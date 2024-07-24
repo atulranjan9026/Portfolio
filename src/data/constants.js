@@ -145,22 +145,21 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://img.freepik.com/premium-photo/labor-worker-construction-site-labor-day_814577-1132.jpg?w=740",
-    role: "Matching Skilled Workers to Clients.",
-    company: "Wager",
-    date: "Aug 2023 - Dec 2023",
-    desc: "WAGER is an innovative platform designed to revolutionize the traditional process of connecting skilled tradespersons, such as electricians and painters, with clients seeking their services. The project addresses the challenges associated with the manual and often time-consuming task of efficiently matching skilled workers to clients.",
+    img: "https://drive.google.com/file/d/1DhwJcF0_MZN9UwPeFw6Lx8tqEbbQ-tsv/view?usp=sharing",
+    role: "Backend Web Development Intern,",
+    company: "Small Fare Services Pvt. Ltd.",
+    date: "  July 2024 -ongoing",
+    desc: "  ●  Collaborated with cross-functional teams to understand project requirements and objectives. 
+  ●  Learned and utilized various web development tools and technologies.
+  ●  Supported in troubleshooting and debugging issues.
+  ●  Created and maintained server-side architecture.",
     skills: [
-      "Reactjs",
       "NodeJs",
-      "SQL",
       "Express",
-      "JavaScript",
-      "HTML",
-      "CSS",
-      "Tailwind",
+      "MYSQL",
+      "MongoDB",
     ],
-    doc: "",
+    doc: "https://drive.google.com/file/d/1nKn754hyKIYRkoiBD4_u5aSn7tUzUedx/view?usp=sharing",
   },
   // {
   //   id: 0,

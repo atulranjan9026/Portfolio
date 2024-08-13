@@ -247,33 +247,19 @@ export const projects = [
   //   github: "",
   //   webapp: "",
   // },
-  // {
-    // id: 2,
-    // title: "..",
-    // date: "Jan 2023 - Mar 2023",
-    // description:
-    //   "..",
-    // image:
-    //   "..",
-    // tags: [],
-    // category: "",
-    // github: "",
-    // webapp: "",
-    // member: [
-    //   {
-    //     name: "",
-    //     img: "",
-    //     linkedin: "",
-    //     github: "",
-    //   },
-    //   {
-    //     name: "",
-    //     img: "",
-    //     linkedin: "",
-    //     github: "",
-    //   },
-    // ],
-  // },
+  {
+    id: 10,
+    title: "Todo Web App",
+    date: "Aug 2024",
+    description:
+      "Proven track record as a detail-oriented and organized professional, excelling in effective task management and boosting productivity.",
+    image:
+      "..",
+    tags: ["HTML", "CSS", "JavaScript", "ReactJs", "Redux"],
+    category: "android app",
+    github: "https://github.com/atulranjan9026/react-todo-app",
+    webapp: "https://youtu.be/lkY22Zj30do",
+  },
   {
     id: 3,
     title: "GYM Website",

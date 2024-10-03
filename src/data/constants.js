@@ -218,35 +218,48 @@ export const projects = [
   //   github: "",
   //   webapp: "",
   // },
-  // {
-  //   id: 0,
-  //   title: "",
-  //   date: "Apr 2023 - May 2023",
-  //   description:
-  //     "",
-  //   image:
-  //     "",
-  //   tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-  //   category: "web app",
-  //   github: "",
-  //   webapp: "",
+  {
+    id: 0,
+    title: "Social media handles",
+    date: "Sep 2024",
+    description:
+      `Developed a social media submission platform for users to submit names, social media handles, images, and an admin     
+      dashboard to view and manage all user data in real time.Admin Login Username: Admin Password: 123`,
+    image:
+      "",
+    tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
+    category: "web app",
+    github: "https://github.com/atulranjan9026/Portfolio",
+    webapp: "https://portfolio-iv8o.onrender.com/",
    
-  // },
-  // {
-  //   id: 1,
-  //   title: "",
-  //   date: "Oct 2022 - Present",
-  //   description:
-  //     "",
-  //   image:
-  //     "",
-  //   tags: [
-  //    
-  //   ],
-  //   category: "web app",
-  //   github: "",
-  //   webapp: "",
-  // },
+  },
+  {
+    id: 1,
+    title: "Task Manager   ",
+    date: "Oct 2024",
+    description:
+      ` Built a MERN stack Task Management Application with JWT authentication, enabling task CRUD operations, user
+assignment, and summary report generation. Login Username: admin123@gmail.com Password: 123`,
+    image:
+      "",
+    tags: ["React.js","NodeJs", "Express", "MongoDB"],
+    category: "web app",
+    github: "https://github.com/atulranjan9026/Task-Manager",
+    webapp: "https://task-manager-ulta.onrender.com/",
+  },
+  {
+    id: 6,
+    title: "ShopEase:",
+    date: "Apr 2024 - Jun 2024",
+    description:
+      "Constructed a scalable e-commerce platform using the MERN (MongoDB, Express.js, React, Node.js) stack",
+    image:
+      "..",
+    tags: ["React.js","NodeJs", "Express", "MongoDB"],
+    category: "web app",
+    github: "https://github.com/atulranjan9026/E-commerce",
+    webapp: "https://voluble-tanuki-fe7ea9.netlify.app",
+  },
   {
     id: 10,
     title: "Todo Web App",
@@ -314,19 +327,7 @@ export const projects = [
   },
   // {
   
-  {
-    id: 6,
-    title: "ShopEase:",
-    date: "Apr 2024 - Jun 2024",
-    description:
-      "Constructed a scalable e-commerce platform using the MERN (MongoDB, Express.js, React, Node.js) stack",
-    image:
-      "..",
-    tags: ["React.js","NodeJs", "Express", "MongoDB"],
-    category: "web app",
-    github: "https://github.com/atulranjan9026/E-commerce",
-    webapp: "https://voluble-tanuki-fe7ea9.netlify.app",
-  },
+  
   // {
   //   id: 7,
   //   title: "",

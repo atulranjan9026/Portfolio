@@ -226,7 +226,7 @@ export const projects = [
       `Developed a social media submission platform for users to submit names, social media handles, images, and an admin     
       dashboard to view and manage all user data in real time.Admin Login Username: Admin Password: 123`,
     image:
-      "",
+      "https://github.com/user-attachments/assets/b00b9bb0-be3a-4ea0-9b35-13082a23ce10",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
     category: "web app",
     github: "https://github.com/atulranjan9026/Portfolio",
@@ -241,7 +241,7 @@ export const projects = [
       ` Built a MERN stack Task Management Application with JWT authentication, enabling task CRUD operations, user
 assignment, and summary report generation. Login Username: admin123@gmail.com Password: 123`,
     image:
-      "",
+      "https://github.com/user-attachments/assets/46b9a8b9-5da4-4b7f-89bc-f3d05acee95a",
     tags: ["React.js","NodeJs", "Express", "MongoDB"],
     category: "web app",
     github: "https://github.com/atulranjan9026/Task-Manager",
@@ -254,7 +254,7 @@ assignment, and summary report generation. Login Username: admin123@gmail.com Pa
     description:
       "Constructed a scalable e-commerce platform using the MERN (MongoDB, Express.js, React, Node.js) stack",
     image:
-      "..",
+      "https://github.com/user-attachments/assets/6bb0726b-dbab-4633-a10a-f54602bfeaa4",
     tags: ["React.js","NodeJs", "Express", "MongoDB"],
     category: "web app",
     github: "https://github.com/atulranjan9026/E-commerce",

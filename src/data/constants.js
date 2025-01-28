@@ -145,35 +145,41 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://img.freepik.com/premium-photo/labor-worker-construction-site-labor-day_814577-1132.jpg?w=740",
-    role: "Matching Skilled Workers to Clients.",
-    company: "Wager",
-    date: "Aug 2023 - Dec 2023",
-    desc: "WAGER is an innovative platform designed to revolutionize the traditional process of connecting skilled tradespersons, such as electricians and painters, with clients seeking their services. The project addresses the challenges associated with the manual and often time-consuming task of efficiently matching skilled workers to clients.",
-    skills: [
+    // img: "https://img.freepik.com/premium-photo/labor-worker-construction-site-labor-day_814577-1132.jpg?w=740",
+    role: "Front-End Developer Intern",
+    company: "Algowiz Technologies Private Limited Pune, Maharashtra",
+    date: "Nov 2024 – Jan 2025",
+    desc: "Built a trading platform with React.js, optimizing responsiveness by 40% using scalable architecture.Developed an Options Trading feature, enabling multi-account management under one platform.Implemented reusable components and advanced state management techniques, improving performance by 25%.",
+  skills: [
       "Reactjs",
       "NodeJs",
-      "SQL",
       "Express",
       "JavaScript",
       "HTML",
       "CSS",
       "Tailwind",
     ],
-    doc: "",
+    doc: "https://fincopy.in/",
   },
-  // {
-  //   id: 0,
-  //   img: "",
-  //   role: "",
-  //   company: "",
-  //   date: "",
-  //   desc: "",
-  //   skills: [
-  //     
-  //   ],
-  //   doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
-  // },
+  {
+    id: 1,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyxHSrciB1UT8AmEpcZePljmUpV-K1HbrSpg&s",
+    role: "Full Stack Developer [ Freelancing ]",
+    company: "SkillTera California US state ",
+    date: "Oct 2024 – Present",
+    desc: "  ●  Resolved 95+ code smells, bugs, and vulnerabilities using SonarCloud, enhancing code quality by 30%.Reduced technical debt by 25% by optimizing duplications and adopting maintainable practices.Improved debugging efficiency by 40%, accelerating development cycles and team productivity.",
+    skills: [
+      "Reactjs",
+      "NodeJs",
+      "Express",
+      "MongoDB",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Tailwind",
+    ],
+    doc: "https://skilltera.com/",
+  },
  
 ];
 

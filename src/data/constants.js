@@ -7,8 +7,8 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/atulranjan9026",
+   "Motivated Full-Stack Developer with 4+ months of experience designing dynamic, user-centric web applications. Proficient in React.js, Node.js, MongoDB, and MySQL, with a proven ability to enhance application performance and maintain clean, scalable code. Passionate about solving complex problems and delivering impactful digital solutions.",
+    github: "https://github.com/atulranjan9026",
   resume:
     "https://drive.google.com/file/d/15WCQEDL4CH4SiATATsI4UBdDHwhsDYiQ/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/atul-ranjan-50489921a/",

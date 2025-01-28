@@ -79,9 +79,9 @@ const index = () => {
         <Container id="experience">
             <Wrapper>
                 <Title>Experience</Title>
-                <Desc>
-                I have work experience as a web developer and team leader in my college projects.
-                </Desc>
+                // <Desc>
+                // I have work experience as a web developer and team leader in my college projects.
+                // </Desc>
                 <TimelineSection>
                     <Timeline>
                         {experiences.map((experience,index) => (

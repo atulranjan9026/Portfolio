@@ -145,7 +145,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    // img: "https://img.freepik.com/premium-photo/labor-worker-construction-site-labor-day_814577-1132.jpg?w=740",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyxHSrciB1UT8AmEpcZePljmUpV-K1HbrSpg&s",
     role: "Front-End Developer Intern",
     company: "Algowiz Technologies Private Limited Pune, Maharashtra",
     date: "Nov 2024 – Jan 2025",
@@ -163,7 +163,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyxHSrciB1UT8AmEpcZePljmUpV-K1HbrSpg&s",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdLWIZpnTic7Eg5xToSL9xDPd_t6XlfY1MHQ&s",
     role: "Full Stack Developer [ Freelancing ]",
     company: "SkillTera California US state ",
     date: "Oct 2024 – Present",

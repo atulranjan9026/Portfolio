@@ -10,7 +10,7 @@ export const Bio = {
    "Motivated Full-Stack Developer with 4+ months of experience designing dynamic, user-centric web applications. Proficient in React.js, Node.js, MongoDB, and MySQL, with a proven ability to enhance application performance and maintain clean, scalable code. Passionate about solving complex problems and delivering impactful digital solutions.",
     github: "https://github.com/atulranjan9026",
   resume:
-    "https://drive.google.com/file/d/1w4JMn85FkFFxFAOhybn5cz6cKdgKSKGr/view?usp=sharing",
+    "https://drive.google.com/file/d/1mTYysyLt0PFTVOF9vSsw7mcHEAGzuBRK/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/atul-ranjan-50489921a/",
   twitter: "https://twitter.com/atulst825",
   insta: "https://www.instagram.com/atulranjan3625/?hl=en",

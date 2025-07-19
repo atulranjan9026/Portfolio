@@ -7,7 +7,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-   "Motivated Full-Stack Developer with 7+ months of experience designing dynamic, user-centric web applications. Proficient in React.js, Node.js, MongoDB, and MySQL, with a proven ability to enhance application performance and maintain clean, scalable code. Passionate about solving complex problems and delivering impactful digital solutions.",
+   "MERN Stack Developer with 1+ year of experience building scalable web apps, optimizing performance by 40%+, and enhancing user experience. Strong in React, Node.js, MongoDB, and API optimization. Passionate about clean code, efficient architecture, and problem-solving.",
     github: "https://github.com/atulranjan9026",
   resume:
     "https://drive.google.com/file/d/1mTYysyLt0PFTVOF9vSsw7mcHEAGzuBRK/view?usp=sharing",
@@ -148,7 +148,7 @@ export const experiences = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyxHSrciB1UT8AmEpcZePljmUpV-K1HbrSpg&s",
     role: "Front-End Developer Intern",
     company: "Algowiz Technologies Private Limited Pune, Maharashtra",
-    date: "Nov 2024 – Jan 2025",
+    date: "June 2024 – Aug 2024",
     desc: "Built a trading platform with React.js, optimizing responsiveness by 40% using scalable architecture.Developed an Options Trading feature, enabling multi-account management under one platform.Implemented reusable components and advanced state management techniques, improving performance by 25%.",
   skills: [
       "Reactjs",
@@ -166,7 +166,7 @@ export const experiences = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdLWIZpnTic7Eg5xToSL9xDPd_t6XlfY1MHQ&s",
     role: "Full Stack Developer ( Remote )",
     company: "SkillTera California US state ",
-    date: "Feb 2025 – Present",
+    date: "Sep 2024 – Present",
     desc: "  ●  Resolved 95+ code smells, bugs, and vulnerabilities using SonarCloud, enhancing code quality by 30%.Reduced technical debt by 25% by optimizing duplications and adopting maintainable practices.Improved debugging efficiency by 40%, accelerating development cycles and team productivity.",
     skills: [
       "Reactjs",

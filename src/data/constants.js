@@ -7,7 +7,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-   "MERN Stack Developer with 1+ year of experience building scalable web apps, optimizing performance by 40%+, and enhancing user experience. Strong in React, Node.js, MongoDB, and API optimization. Passionate about clean code, efficient architecture, and problem-solving.",
+   "Full Stack Developer with 1.5+ years of experience building scalable SaaS applications using MERN stack. Delivered 40% faster front-end performance and 30% improved API response times through optimization techniques. Passionate about creating efficient, user-centric solutions and continuously expanding skills in cloud technologies and modern frameworks.",
     github: "https://github.com/atulranjan9026",
   resume:
     "https://drive.google.com/file/d/1mTYysyLt0PFTVOF9vSsw7mcHEAGzuBRK/view?usp=sharing",
@@ -145,24 +145,6 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyxHSrciB1UT8AmEpcZePljmUpV-K1HbrSpg&s",
-    role: "Front-End Developer Intern",
-    company: "Algowiz Technologies Private Limited Pune, Maharashtra",
-    date: "June 2024 – Aug 2024",
-    desc: "Built a trading platform with React.js, optimizing responsiveness by 40% using scalable architecture.Developed an Options Trading feature, enabling multi-account management under one platform.Implemented reusable components and advanced state management techniques, improving performance by 25%.",
-  skills: [
-      "Reactjs",
-      "NodeJs",
-      "Express",
-      "JavaScript",
-      "HTML",
-      "CSS",
-      "Tailwind",
-    ],
-    doc: "https://fincopy.in/",
-  },
-  {
-    id: 1,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdLWIZpnTic7Eg5xToSL9xDPd_t6XlfY1MHQ&s",
     role: "Full Stack Developer ( Remote )",
     company: "SkillTera California US state ",
@@ -180,6 +162,25 @@ export const experiences = [
     ],
     doc: "https://skilltera.com/",
   },
+  {
+    id: 1,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyxHSrciB1UT8AmEpcZePljmUpV-K1HbrSpg&s",
+    role: "Front-End Developer Intern",
+    company: "Algowiz Technologies Private Limited Pune, Maharashtra",
+    date: "June 2024 – Aug 2024",
+    desc: "Built a trading platform with React.js, optimizing responsiveness by 40% using scalable architecture.Developed an Options Trading feature, enabling multi-account management under one platform.Implemented reusable components and advanced state management techniques, improving performance by 25%.",
+  skills: [
+      "Reactjs",
+      "NodeJs",
+      "Express",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Tailwind",
+    ],
+    doc: "https://fincopy.in/",
+  },
+  
  
 ];
 

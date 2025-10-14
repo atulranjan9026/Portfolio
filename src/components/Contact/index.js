@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { useRef } from 'react';
+import { useRef, useEffect } from 'react';
 import emailjs from '@emailjs/browser';
 import { Snackbar } from '@mui/material';
 
@@ -118,24 +118,47 @@ const ContactButton = styled.input`
   color: ${({ theme }) => theme.text_primary};
   font-size: 18px;
   font-weight: 600;
+  cursor: pointer;
+  box-shadow: rgba(23, 92, 230, 0.3) 0px 4px 24px;
 `
 
 
 
 const Contact = () => {
-
   //hooks
   const [open, setOpen] = React.useState(false);
+  const [message, setMessage] = React.useState("");
+  const [severity, setSeverity] = React.useState("success");
   const form = useRef();
+
+  // Initialize EmailJS
+  useEffect(() => {
+    const publicKey = process.env.REACT_APP_EMAILJS_PUBLIC_KEY;
+    if (!publicKey) {
+      console.error('REACT_APP_EMAILJS_PUBLIC_KEY is not defined');
+      return;
+    }
+    emailjs.init(publicKey);
+  }, []);
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    emailjs.sendForm('service_tox7kqs', 'template_nv7k7mj', form.current, 'SybVGsYS52j2TfLbi')
+    emailjs.sendForm(
+      process.env.REACT_APP_EMAILJS_SERVICE_ID,
+      process.env.REACT_APP_EMAILJS_TEMPLATE_ID,
+      form.current,
+      process.env.REACT_APP_EMAILJS_PUBLIC_KEY
+    )
       .then((result) => {
+        setMessage("Message sent successfully! I'll get back to you soon.");
+        setSeverity("success");
         setOpen(true);
         form.current.reset();
       }, (error) => {
         console.log(error.text);
+        setMessage("Oops! Something went wrong. Please try again.");
+        setSeverity("error");
+        setOpen(true);
       });
   }
 
@@ -150,16 +173,24 @@ const Contact = () => {
           <ContactTitle>Email Me 🚀</ContactTitle>
           <ContactInput placeholder="Your Email" name="from_email" />
           <ContactInput placeholder="Your Name" name="from_name" />
-          <ContactInput placeholder="Subject" name="subject" />
-          <ContactInputMessage placeholder="Message" rows="4" name="message" />
+          <ContactInput placeholder="Your Subject" name="subject" />
+          <ContactInputMessage placeholder="Your Message" rows="4" name="message" />
+          <ContactInput type="hidden" name="to_name" value="Atul Ranjan" />
           <ContactButton type="submit" value="Send" />
         </ContactForm>
         <Snackbar
           open={open}
           autoHideDuration={6000}
-          onClose={()=>setOpen(false)}
-          message="Email sent successfully!"
-          severity="success"
+          onClose={() => setOpen(false)}
+          message={message}
+          severity={severity}
+          anchorOrigin={{ vertical: 'top', horizontal: 'center' }}
+          sx={{
+            '& .MuiSnackbarContent-root': {
+              bgcolor: severity === 'success' ? 'green' : 'red',
+              color: 'white'
+            }
+          }}
         />
       </Wrapper>
     </Container>

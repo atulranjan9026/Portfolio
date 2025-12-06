@@ -7,7 +7,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-   "Full Stack Developer with 1.5+ years of experience building scalable SaaS applications using MERN stack. Delivered 40% faster front-end performance and 30% improved API response times through optimization techniques. Passionate about creating efficient, user-centric solutions and continuously expanding skills in cloud technologies and modern frameworks.",
+   "Full Stack Developer with 1.6+ years of experience building scalable SaaS applications using MERN stack. Delivered 40% faster front-end performance and 30% improved API response times through optimization techniques. Passionate about creating efficient, user-centric solutions and continuously expanding skills in cloud technologies and modern frameworks.",
     github: "https://github.com/atulranjan9026",
   resume:
     "https://drive.google.com/file/d/1mTYysyLt0PFTVOF9vSsw7mcHEAGzuBRK/view?usp=sharing",
